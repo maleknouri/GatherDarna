@@ -1309,19 +1309,6 @@
          "tilecount":424,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":56,
-         "firstgid":13492,
-         "image":"..\/..\/..\/Desktop\/New folder (2)\/Gather\/Darna assets\/Darna assets\/interior\/moderninteriors-win\/2_Characters\/Character_Generator\/0_Premade_Characters\/32x32\/Premade_Character_32x32_01.png",
-         "imageheight":1312,
-         "imagewidth":1792,
-         "margin":0,
-         "name":"Premade_Character_32x32_01",
-         "spacing":0,
-         "tilecount":2296,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
